@@ -1,2 +1,2 @@
 # digitaleyes-
-the full progect
+the full project
